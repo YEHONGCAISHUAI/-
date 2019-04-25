@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国八大菜系</title>
+<style type="text/css">
+body,td,th {
+	color: #F03;
+}
+body {
+	background-image: url(tu1.jpg);
+	
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+	color: #000;
+}
+p {
+	font-style: italic;
+}
+#lianxiwomen {
+}
+</style>
+</head>
+
+<body tracingsrc="tu1.jpg" tracingopacity="80">
+<h2><a name="jianjie" id="jianjie"></a><strong><em><a href="简介.html">简介
+</a></em></strong>   </h2>
+<h2><a name="xingchengyinsu" id="xingchengyinsu"></a><strong><em><a href="形成因素.html">形成因素</a></em></strong></h2>
+<h2><a name="pengrenlishi" id="pengrenlishi"></a><strong><em><a href="烹饪历史.html">烹饪历史</a></em></strong></h2>
+<h2><a name="goucheng" id="goucheng"></a><strong><em><a href="构成及代表做法.html">构成</a></em></strong><a href="构成及代表做法.html"><em>及代表做法</em></a></h2>
+<h2><a name="lianxiwomen" id="lianxiwomen"></a><em><a href="1941590835@qq.com">联系我们</a></em></strong></h2>
+<p>2019年4月24日 </p>
+</body>
+</html>
